@@ -1,0 +1,5 @@
+Changelog:
+
+Cricket (no matches) - Done
+Needed to install pip ... and henceforth virtualenv ("sudo aptget install pip")
+As well as "sudo apt-get update && sudo apt-get install espeak"
