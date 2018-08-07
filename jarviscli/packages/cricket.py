@@ -100,6 +100,9 @@ def scorecard(desc):
 
 def score(self):
     matches = all_matches()
+    if matches == []:			#in event no matches are occurring 
+        print(Fore.RED + "There are no present cricket matches")
+        return
     print(Fore.RED + "\nALL MATCHES\n" + Fore.LIGHTBLUE_EX)
     for i, m in enumerate(matches, 1):
         print("{}. {}".format(str(i), m))
