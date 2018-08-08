@@ -311,9 +311,10 @@ class CmdInterpreter(Cmd):
 
     def help_directions(self):
         """Prints help about directions command"""
-        print_say("Get directions about a destination you are interested to.", self)
+        print_say("Get directions from one location (assumed your current location unless specified with 'from') to another.", self)
         print_say("-- Example:", self)
         print_say("\tdirections to the Eiffel Tower", self)
+        print_say("\tdirections from Amsterdam to The Hague", self)
 
     def do_disable(self, s):
         """Deny Jarvis to use his voice."""
