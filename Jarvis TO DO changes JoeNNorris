@@ -1,5 +1,17 @@
 Changelog:
 
-Cricket (no matches) - Done
-Needed to install pip ... and henceforth virtualenv ("sudo aptget install pip")
-As well as "sudo apt-get update && sudo apt-get install espeak"
+Cricket (no matches) - Done - Uploaded
+Needed to install pip ... ("sudo aptget install pip") - Done - Uploaded - Unverified
+As well as "sudo apt-get update && sudo apt-get install espeak" - Done - Uploaded - Unverified
+Add "opening in external window" to directions - Done - Uploaded - Unverified
+Fix "from... to..." in directions - Done - Uploaded - Unverified
+
+
+Improve currency conversion
+Fix Dictionary
+Make text appear, then speech -> or concurrently
+Add OSM integration for location based things... preference options
+Fix movie
+Add a quit command???
+
+Universal: try: except statements for all commands to protect from crashing
