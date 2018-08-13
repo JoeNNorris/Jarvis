@@ -3,15 +3,21 @@ Changelog:
 Cricket (no matches) - Done - Uploaded
 Needed to install pip ... ("sudo aptget install pip") - Done - Uploaded - Unverified
 As well as "sudo apt-get update && sudo apt-get install espeak" - Done - Uploaded - Unverified
-Add "opening in external window" to directions - Done - Uploaded - Unverified
+Add "opening in external window" to directions - Done - Uplhreloaded - Unverified
 Fix "from... to..." in directions - Done - Uploaded - Unverified
+Add "from... to..." in direction help of cmdinterpreter - Done - Uploaded - Unverified
+Fix for pydict ... used meaning, and checks for the behaviour of googlemeanign and syn and ant  - Done - Uploaded - Unverified 
+
+
+
+
 
 
 Improve currency conversion
-Fix Dictionary
 Make text appear, then speech -> or concurrently
 Add OSM integration for location based things... preference options
 Fix movie
-Add a quit command???
+Add to Display
+Fix fb... why open in chromium and in event of crash
 
 Universal: try: except statements for all commands to protect from crashing
