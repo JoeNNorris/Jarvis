@@ -12,7 +12,7 @@ Fix for pydict ... used meaning, and checks for the behaviour of googlemeanign a
 
 
 
-
+Add forked version of pydictionary
 Improve currency conversion
 Make text appear, then speech -> or concurrently
 Add OSM integration for location based things... preference options
