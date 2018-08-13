@@ -97,7 +97,7 @@ elif [[ -f "/etc/apt/sources.list" ]]; then
   sudo apt-get install chromium-chromedriver
   sudo apt-get install screenfetch
   sudo apt-get install build-essential chrpath libssl-dev libxft-dev libfreetype6-dev libfreetype6 libfontconfig1-dev libfontconfig1
-  sudo apt-get install pip
+  sudo apt-get update && sudo apt-get install python-pip
   sudo apt-get update && sudo apt-get install espeak
   if [ "$CHECK_PHANTOMJS" == "2.1.1" ]; then
     echo "PhantomJs is installed"
